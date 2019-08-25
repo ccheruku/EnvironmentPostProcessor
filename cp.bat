@@ -1,0 +1,1 @@
+copy C:\Chandu\workspace\EnvironmentPostProcessor\target\demo-0.0.1-SNAPSHOT.war C:\Progra~1\jbosseap\standalone\deployments\demo-0.0.1-SNAPSHOT.war
